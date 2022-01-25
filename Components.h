@@ -38,7 +38,7 @@ public:
 	{
 		rectangle.setFillColor(color);
 		rectangle.setOrigin(width, height / 2);
-		rectangle.rotate(angle * 57.2958);
+		rectangle.rotate(angle * 57.2958f);
 	}
 };
 
